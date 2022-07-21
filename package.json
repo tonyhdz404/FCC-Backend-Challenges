@@ -12,5 +12,11 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "description": "freeCodeCamp backend challenges"
+  "description": "freeCodeCamp backend challenges",
+  "keywords": [
+    "descriptive",
+    "related",
+    "words",
+    "freecodecamp"
+  ]
 }
